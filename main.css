@@ -1,0 +1,40 @@
+body {
+    background-color: #E0E0E0;
+    color: #660000;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+    width: 750px;
+}
+
+#a {
+    display: flex;
+    align-items: start;
+    padding-left: 60px;
+}
+
+#zcsapat {
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+#zaszlo {
+    width: 40%;
+    margin-top: 35px;
+}
+
+#kozep1,
+#kozep2,
+#kozep3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#bekezdes {
+    margin-left: 50px;
+    margin-right: 600px;
+}
